@@ -19,4 +19,4 @@ Este projeto é um sistema simples desenvolvido em **Java** para categorizar pro
 ## 📂 Como executar o projeto  
 1. **Clone o repositório:**  
    ```bash
-   git clone https://github.com/viniacosta/CatalogoProduto.git
+   git clone https://github.com/viniacosta/ClassificacaoProduto.git
