@@ -15,8 +15,3 @@ Este projeto é um sistema simples desenvolvido em **Java** para categorizar pro
 - **Java**  
 - **Scanner (para entrada de dados)**  
 - **Estruturas condicionais (if/else)**  
-
-## 📂 Como executar o projeto  
-1. **Clone o repositório:**  
-   ```bash
-   git clone https://github.com/viniacosta/ClassificacaoProduto.git
